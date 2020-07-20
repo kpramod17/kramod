@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "How I Read (Part 1)"
+date:   2020-07-21 00:23:48 +0530
+categories: posts
+---
+This is my first blog post. 
+
+Which is public. 
+
+Alright. 
+
+Alright. Yeah. That’s okay. 
+
+<<cracks knuckles>>
+<br><br>
+>Until I feared I would lose it, I never loved to read. One does not love breathing.- H Lee. My hero, overall champion person.
+
+
+<br>
+I don’t love reading. Fiction has been a fairly small percentage of what I read, and aren’t all those quotes about reading only about fiction anyway? I don’t love reading. Love or hate is not the lens I would approach reading with. It’s what I do. I need it, and not in the romantic sense of the word. It’s mostly pragmatic. I don’t know how to do a lot of things, I don’t know how to think a lot of things, I don’t know how to feel a lot of things. Reading is what solves these little inconveniences for me. Reading to me is all those cliches that a 1860s wife was supposed to be. A sibling, a parent, a teacher, a mentor, a friend, a lover. Most of all, reading is the constant companion, an ever available escape when everything else invariably gets overwhelming.<br><br>
+
+
+When I was 17 at a college that I thought I was too good for, and which turned out to be the other way around, I met an amazing senior who said something that influenced my reading for almost the entire decade that followed -
+
+>Why do you read fiction? Fiction is for elevated minds that want to relax? What have you fucking accomplished to deserve it?
+
+Fair enough, I guess. As someone that’s always been into trying to over-optimise his life by gobbling up non-fiction, this advice felt like Jesus’s blood or whatever. I read two or three fiction books a year. The best. All my favourites till date. I guess the greed of consuming the very best literature to make up for the lack of volume pays off.
+
+Cut to 27 and reading fiction is a very natural choice.
+
+>I read fiction to be destroyed by Murakami’s words. <br>
+>I read fiction to be washed over by the genius and the tragedy that Fitzgerald’s life was.  <br>
+>I read fiction to be able to feel at least an iota as much as Sylvia Plath did at her numbest.<br>
+>I read fiction because Kurt Vonnegut isn’t a legend to me, but a best friend who thinks like I do.<br>
+>I read fiction because Douglas Adams is a master showing kid me the ropes of what is possible.<br>
+>I read fiction because Amy Hempel makes me feel more worthless than a Wisdom tooth with her word economy.<br> 
+
+
+<br>
+Yeah, reading fiction is a very natural choice. It is a natural choice because I would choose being poor and feel everything I could feel and think everything I could to being successful and shallow. Success can wait. 
+<br><br>
+
+***
+<br>
+*Do you read everything you’re supposed to read? Do you feel everything you’re supposed to feel? Do you think everything you’re supposed to think?*
+
+ 
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
